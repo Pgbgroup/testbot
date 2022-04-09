@@ -17,4 +17,4 @@ def start(message):
     msg = message.text
     if msg == '/start':
 
-        bot.send_message(user,parse_mode="Markdown", reply_markup=markup"Hi")
+        bot.send_message(user,"Hi")
