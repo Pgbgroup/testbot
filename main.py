@@ -18,3 +18,5 @@ def start(message):
     if msg == '/start':
 
         bot.send_message(user,"Hi")
+if __name__ == '__main__':
+    bot.polling(none_stop=True)
