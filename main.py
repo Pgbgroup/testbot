@@ -6,7 +6,7 @@ import telebot
 #Pgbgroup
 
 
-BOT_TOKEN = "5167060032:AAG-QVNYQ1lIlmKWmDkG6bti4_K0sqHqJRo"
+BOT_TOKEN = "6513778975:AAGjY6lyWKjAb32Izi7qhyn6gD7looUR9wo"
 
 
 bot = telebot.TeleBot(BOT_TOKEN)
